@@ -1,0 +1,1 @@
+In this app we can seee fundamentals of GraphQL. Here we see query functions and mutation functions. With Query we are able to search for data. With Mutation we can create, for example movies and genres, update them, and if we want we can delete what we created by specifying the ID.
